@@ -6,7 +6,10 @@ import PropType from 'prop-types';
 function Navbar({ title }) {
   useEffect(() => {
     const theme = localStorage.getItem('theme');
-    document.documentElement.setAttribute('data-theme', theme);
+    document.documentElement.setAttribute(
+      'data-theme',
+      theme ? theme : 'cyberpunk'
+    );
   });
 
   const chnageTheme = theme => {
