@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# GitHub Finder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the GitHub Finder project, a collaborative effort between two friends, aimed at learning React through the creation of a user profile search tool. 
 
-## Available Scripts
+GitHub Finder utilizes React, Tailwind CSS, DaisyUI, and the GitHub API to fetch and display user details.
 
-In the project directory, you can run:
+With GitHub Finder, you can easily search for GitHub users and view their profiles. This project provides a user-friendly interface for exploring GitHub user information.
 
-### `npm start`
+## Project Details
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Live Link
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You can check the live version of the project [here](https://github-finder-nik.netlify.app/).
 
-### `npm test`
+### Key Project Technologies
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React:** GitHub Finder is built using React, allowing for the creation of dynamic and interactive user interfaces.
 
-### `npm run build`
+- **Tailwind CSS:** Tailwind CSS is used for styling the project, making it easy to design a clean and modern user interface.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **DaisyUI:** DaisyUI is incorporated to enhance the capabilities of Tailwind CSS, providing additional utility classes for an efficient development process.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **GitHub API:** The GitHub API is used to fetch and display user details, ensuring up-to-date and accurate information.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Getting Started
 
-### `npm run eject`
+To run the GitHub Finder project locally, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone this repository to your local machine:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   git clone https://github.com/NikhilMandaliya/GitHubFinder.git
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Navigate to the project directory:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```bash
+   cd github-finder
+   ```
 
-## Learn More
+3. Install project dependencies:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```bash
+   npm install
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. Start the React application:
 
-### Code Splitting
+   ```bash
+   npm start
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+5. Open your web browser and visit http://localhost:3000 to access the GitHub Finder application.
 
-### Analyzing the Bundle Size
+### Learning Goals
+This project was a valuable learning experience, and here's what you and your friend have gained from it:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Improved React development skills, including components, state management, and API integration.
+- Hands-on experience with Tailwind CSS and DaisyUI for modern and efficient styling.
+- Practical use of a real API, demonstrating how to fetch and display data in a React application.
 
-### Making a Progressive Web App
+## Contributors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This GitHub Finder project was created and maintained by:
 
-### Advanced Configuration
+- [Nikhil Mandaliya](https://github.com/NikhilMandaliya)
+- [Nikhil Solanki](https://github.com/nikhilso1anki)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+We both worked together to learn and build this project, contributing to its development and success.
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
