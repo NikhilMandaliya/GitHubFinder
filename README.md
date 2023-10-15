@@ -53,7 +53,7 @@ To run the GitHub Finder project locally, follow these steps:
 5. Open your web browser and visit http://localhost:3000 to access the GitHub Finder application.
 
 ### Learning Goals
-This project was a valuable learning experience, and here's what you and your friend have gained from it:
+This project was a valuable learning experience, and here's what we have gained from it:
 
 - Improved React development skills, including components, state management, and API integration.
 - Hands-on experience with Tailwind CSS and DaisyUI for modern and efficient styling.
