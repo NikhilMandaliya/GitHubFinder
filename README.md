@@ -35,7 +35,7 @@ To run the GitHub Finder project locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd github-finder
+   cd GitHubFinder
    ```
 
 3. Install project dependencies:
